@@ -1,4 +1,7 @@
 
+-- SELECT * 
+-- FROM bqdts_sbcharles1_datalake_playground.customers
+
 /*
     Welcome to your first dbt model!
     Did you know that you can also configure models directly within SQL files?
