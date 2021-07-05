@@ -1,8 +1,0 @@
-my-bigquery-db:
-  target: dev
-  outputs:
-    dev:
-      type: bigquery
-      location: EU
-      priority: interactive
-      retries: 1
