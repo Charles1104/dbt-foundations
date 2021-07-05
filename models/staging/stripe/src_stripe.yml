@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: stripe
+    schema: bqdts_sbcharles1_datalake_playground
+    database: ric-eu-sandbox-datalake
+    tables:
+      - name: stripe_payments
